@@ -1,0 +1,17 @@
+.toplevel_page_wrh_order_sheet .wp-menu-image {
+    display: flex;
+    align-items: center;
+  }
+  
+.toplevel_page_wrh_order_sheet .wp-menu-image img {
+    max-width: 60%;
+    padding-top: 0 !important;
+    margin-left: 6px !important;
+}
+.wrh_plugin_icons{
+  margin-right: 4px;
+}
+.wrh_order_sheet_table {
+  padding: 40px;
+background-color: white;
+}
